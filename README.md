@@ -1,12 +1,12 @@
-# PhysiXplorer - Explore the Fun Side of Physics!
+# XploreLab 360 - Explore the Fun Side of Physics!
 
-Welcome to **PhysiXplorer**, the ultimate playground for physics enthusiasts, where you can explore a world of **interactive, fun, and educational physics simulations**! Whether you're a student, teacher, or just a curious mind, PhysiXplorer makes understanding complex physics concepts both **engaging** and **easy to grasp**. Get ready to dive into the universe of motion, forces, energy, and much more – in a way that's never been more fun! 🌟
+Welcome to **XploreLab 360**, the ultimate playground for physics enthusiasts, where you can explore a world of **interactive, fun, and educational physics simulations**! Whether you're a student, teacher, or just a curious mind, XploreLab 360 makes understanding complex physics concepts both **engaging** and **easy to grasp**. Get ready to dive into the universe of motion, forces, energy, and much more – in a way that's never been more fun! 🌟
 
 ![PhysiXplorer Banner](img1.png)
 
-## 🚀 What's PhysiXplorer?
+## 🚀 What's XploreLab 360?
 
-PhysiXplorer is an **open-source project** designed to provide high school and university students with interactive, easy-to-understand physics simulations. Built with the latest web technologies, PhysiXplorer lets you explore various physics phenomena through **interactive animations** that you control. It's all about **learning by doing**, and every simulation is designed to let you visualize the physics behind it. 
+XploreLab 360 is an **open-source project** designed to provide high school and university students with interactive, easy-to-understand physics simulations. Built with the latest web technologies, XploreLab 360 lets you explore various physics phenomena through **interactive animations** that you control. It's all about **learning by doing**, and every simulation is designed to let you visualize the physics behind it. 
 
 From **simple pendulums** to **electric circuits**, our simulations are created using the powerful **p5.js** library, and we encourage everyone to contribute, no matter if you're a physics expert or just starting. Ready to **explore**, **experiment**, and **learn**? Let's go!
 
@@ -24,7 +24,7 @@ From **simple pendulums** to **electric circuits**, our simulations are created 
 ## ⚡ How It Works
 
 ### Set Up the Project
-PhysiXplorer is built using **ExpressJS**, a fast web framework for Node.js. To get started, simply follow these steps:
+XploreLab 360 is built using **ExpressJS**, a fast web framework for Node.js. To get started, simply follow these steps:
 
 1. **Install Node.js** – The project is built with Node.js, and npm (Node Package Manager) will take care of the dependencies.
 2. **Run the Setup** – In the terminal, run `npm install` to install all the required node modules.
@@ -51,21 +51,21 @@ Every simulation has its own customizable settings. Want to change the mass of t
 
 ## 🌍 Why Contribute?
 
-We believe that the more minds working together, the better we can make **PhysiXplorer**. Here's why you should join us:
+We believe that the more minds working together, the better we can make **XploreLab 360**. Here's why you should join us:
 
 - **Open-Source:** Whether you're a seasoned developer or a beginner, your contribution is always welcome.
 - **Learning by Doing:** Adding your own simulation is a great way to learn and share your knowledge.
 - **Educational Impact:** Your contributions help others better understand the fascinating world of physics.
 
-Ready to make an impact? **Fork the repo**, create your own simulation, and be part of the **PhysiXplorer community**!
+Ready to make an impact? **Fork the repo**, create your own simulation, and be part of the **XploreLab 360 community**!
 
 ## 🚀 Let's Explore the Universe Together!
 
-We’re always looking for new contributors who are passionate about physics and want to make learning even more exciting! If you love experimenting and building new things, **PhysiXplorer** is the perfect place for you. 
+We’re always looking for new contributors who are passionate about physics and want to make learning even more exciting! If you love experimenting and building new things, **XploreLab 360** is the perfect place for you. 
 
 Join us in revolutionizing how physics is taught and experienced! 🎓👨‍🔬👩‍🔬
 
-Start exploring: [PhysiXplorer Website](https://physixplorer.vercel.app/)
+Start exploring: [XploreLab 360 Website](https://XploreLab 360.vercel.app/)
 
 ---
 
