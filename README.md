@@ -65,7 +65,7 @@ We’re always looking for new contributors who are passionate about physics and
 
 Join us in revolutionizing how physics is taught and experienced! 🎓👨‍🔬👩‍🔬
 
-Start exploring: [XploreLab 360 Website](https://XploreLab 360.vercel.app/)
+Start exploring: [XploreLab 360 Website](https://xplore-lab360.vercel.app/)
 
 ---
 
